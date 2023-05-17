@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Web-dev-rafik/nft-preview-card-component/blob/main/Screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Web-dev-rafik/nft-preview-card-component)
+- Live Site URL: [Live site URL](https://web-dev-rafik.github.io/nft-preview-card-component/)
 
 ## My process
 
